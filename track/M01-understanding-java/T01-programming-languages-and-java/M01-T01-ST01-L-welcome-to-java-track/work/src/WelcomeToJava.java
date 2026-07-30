@@ -1,5 +1,7 @@
 public class WelcomeToJava {
     public static void main(String[] args) {
-       //Write your code here
+       System.out.println("welcome to java");
+       System.out.println("I already know how to build the logic");
+       System.out.println("now i am laernin how to express logic in java");
     }
 }
