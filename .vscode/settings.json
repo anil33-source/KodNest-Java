@@ -1,5 +1,6 @@
 {
     "java.project.sourcePaths": [
-        "track/M02-Introduction_tojava/src/T06-constructor"
+        "track/M02-Introduction_tojava/src/T06-constructor",
+        "track/M02-Introduction_tojava/src/T04-Classes"
     ]
 }
